@@ -17,3 +17,13 @@ tools.
 ## Dataset used
 <a href="https://github.com/Sarjilsatware/Medical-Data-Analytics/blob/main/FINAL_MEDICAL_DATA.xlsx">Dataset</a>
 ## Questions (KPI)
+- How many total patients were attended during 2021–2025?
+- Which hospital attended the highest number of patients?
+- Which department recorded the highest number of healed patients?
+- Which state had the highest patient mortality?
+- How does patient attendance vary by state and department?
+- Which state had the highest number of patients attended in cardiology?
+- Which department had the highest treatment cost per diagnosis?
+- Which diagnosis has the highest cost associated with it?
+- Which department has the lowest healing rate compared to attendance?
+## Procedure
