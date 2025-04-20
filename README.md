@@ -10,3 +10,10 @@ likelihood of readmission.
 4. To visualize patterns and trends in readmission using data visualization
 tools.
 5. To provide data-driven recommendations for reducing readmission rates.
+## Tools/Software used
+- FOR DATA RETRIEVAL:
+MYSQL COMMUNITY SERVER & MYSQL WORKBENCH
+- FOR DATA IMPORT & EXPORT:
+EXCEL
+- FOR DATA VISUALIZATION:
+POWERBI
