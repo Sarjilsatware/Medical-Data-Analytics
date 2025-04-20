@@ -11,9 +11,9 @@ likelihood of readmission.
 tools.
 5. To provide data-driven recommendations for reducing readmission rates.
 ## Tools/Software used
-- FOR DATA RETRIEVAL:
-MYSQL COMMUNITY SERVER & MYSQL WORKBENCH
-- FOR DATA IMPORT & EXPORT:
-EXCEL
-- FOR DATA VISUALIZATION:
-POWERBI
+- FOR DATA RETRIEVAL: MYSQL COMMUNITY SERVER & MYSQL WORKBENCH
+- FOR DATA IMPORT & EXPORT: EXCEL
+- FOR DATA VISUALIZATION: POWERBI
+## Dataset used
+<a href="https://github.com/Sarjilsatware/Medical-Data-Analytics/blob/main/FINAL_MEDICAL_DATA.xlsx">Dataset</a>
+## Questions (KPI)
